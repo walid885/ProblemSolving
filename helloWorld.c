@@ -1,3 +1,3 @@
 int main( ){
-    printf("hello world!");
+    printf("testing the credintials of github");
 }
